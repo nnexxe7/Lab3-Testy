@@ -443,11 +443,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\megal\\source\\repos\\Lab3 Testy\\Lab3 Testy\\Lab3 Testy.csproj",
+      "projectUniqueName": "C:\\Users\\megal\\OneDrive\\Pulpit\\Projekty\\Lab3-Testy\\Lab3 Testy\\Lab3 Testy.csproj",
       "projectName": "Lab3 Testy",
-      "projectPath": "C:\\Users\\megal\\source\\repos\\Lab3 Testy\\Lab3 Testy\\Lab3 Testy.csproj",
+      "projectPath": "C:\\Users\\megal\\OneDrive\\Pulpit\\Projekty\\Lab3-Testy\\Lab3 Testy\\Lab3 Testy.csproj",
       "packagesPath": "C:\\Users\\megal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\megal\\source\\repos\\Lab3 Testy\\Lab3 Testy\\obj\\",
+      "outputPath": "C:\\Users\\megal\\OneDrive\\Pulpit\\Projekty\\Lab3-Testy\\Lab3 Testy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\megal\\AppData\\Roaming\\NuGet\\NuGet.Config",

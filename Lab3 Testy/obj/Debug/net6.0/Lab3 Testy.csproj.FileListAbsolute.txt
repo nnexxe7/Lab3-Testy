@@ -30,3 +30,35 @@ C:\Users\megal\source\repos\Lab3 Testy\Lab3 Testy\bin\Debug\net6.0\Swashbuckle.A
 C:\Users\megal\source\repos\Lab3 Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.csproj.AssemblyReference.cache
 C:\Users\megal\source\repos\Lab3 Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\megal\source\repos\Lab3 Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.csproj.CopyComplete
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\appsettings.json
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Lab3 Testy.exe
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Lab3 Testy.deps.json
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Lab3 Testy.runtimeconfig.json
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Lab3 Testy.dll
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Lab3 Testy.pdb
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.csproj.AssemblyReference.cache
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.AssemblyInfoInputs.cache
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.AssemblyInfo.cs
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.csproj.CoreCompileInputs.cache
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\staticwebassets\msbuild.Lab3 Testy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab3 Testy.props
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab3 Testy.props
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab3 Testy.props
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\scopedcss\bundle\Lab3 Testy.styles.css
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.csproj.CopyComplete
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.dll
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\refint\Lab3 Testy.dll
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.pdb
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\Lab3 Testy.genruntimeconfig.cache
+C:\Users\megal\OneDrive\Pulpit\Projekty\Lab3-Testy\Lab3 Testy\obj\Debug\net6.0\ref\Lab3 Testy.dll
