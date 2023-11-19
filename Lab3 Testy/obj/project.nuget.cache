@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QFl8npw61vtZWCXp/EpkqWA0eVqrjeT1Gbviyj5S6TPsH3fUtR115Fwdzyc/nC2z8z6/KEJtTJIZPiDWmMo0vw==",
+  "dgSpecHash": "qNGuMARbEcl7f3Q9HZPg3NR1gu9H0tu/RxFDhaeJDtCK62SX8x8SQGFaMyrRUrE+Kwhp7WwiMC/2gnmaXSS7VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\megal\\OneDrive\\Pulpit\\Projekty\\Lab3-Testy\\Lab3 Testy\\Lab3 Testy.csproj",
+  "projectFilePath": "C:\\Users\\megal\\source\\repos\\Lab3-Testy\\Lab3 Testy\\Lab3 Testy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\megal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\megal\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
